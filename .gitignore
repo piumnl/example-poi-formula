@@ -1,0 +1,19 @@
+# JetBrains
+.idea/
+out/
+target/
+*.iml
+*.iws
+
+classes/
+temp/
+
+bin/
+tmp/
+.settings/
+.classpath
+.project
+
+
+build/
+dist/
